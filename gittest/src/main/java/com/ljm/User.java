@@ -14,4 +14,6 @@ package com.ljm;/**
 public class User {
     private Integer id;
     private String name;
+    //修改User.Java
+    private String address;
 }
